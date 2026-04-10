@@ -1,3 +1,4 @@
+
 # Hi there, I'm Yichen Wang 👋
 
 <p align="center">
@@ -12,12 +13,13 @@
 - **Digital Twin** — Unity-based simulation & embodied intelligence
 - **Reinforcement Learning** — Curriculum learning, multi-agent RL, exploration strategies
 - **Robotic Manipulation** — Robotic arm control, multi-end-effector tasks
+- **RLHF** - multi-agent system
 
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-echenwang@stu.xjtu.edu.cn-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:echenwang@stu.xjtu.edu.cn)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ZefM-rAAAAAJ)
-[![GitHub](https://img.shields.io/badge/GitHub-WiCC221-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WiCC221.io)
+[![GitHub](https://img.shields.io/badge/GitHub-WiCC221-181717?style=flat-square&logo=github&logoColor=white)](https://wicc221.github.io/)
 
 ---
 
